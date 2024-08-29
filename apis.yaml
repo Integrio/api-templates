@@ -9,3 +9,12 @@ apis:
   properties:
   - type: x-openapi
     url: https://prod-public-external-api-doc.s3.eu-west-1.amazonaws.com/prod/openapi.yaml
+- name: Petstore
+  description: Petstore
+  baseUrl: https://petstore.swagger.io/v2/
+  properties:
+  - type: x-openapi
+    url: https://petstore.swagger.io/v2/swagger.json
+
+
+    
