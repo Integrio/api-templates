@@ -1,5 +1,7 @@
 name: Integrio System Api registry
 description: This repository contains OpenAPI definitions for different system apis.
+tags:
+- integrio
 apis:
 - name: 4Human HRM - API
   description: The 4Human API Specification
