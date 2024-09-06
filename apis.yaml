@@ -1,4 +1,4 @@
-name: Integrio System Api registry
+name: Integrio System Api repository
 description: This repository contains OpenAPI definitions for different system apis.
 tags:
   - integrio
