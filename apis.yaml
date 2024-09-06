@@ -3,17 +3,17 @@ description: This repository contains OpenAPI definitions for different system a
 tags:
   - integrio
 apis:
-  - name: 4Human HRM - API
+  - name: Integrio 4Human HRM API
     description: The 4Human API Specification
     baseUrl: https://api.hrm-4human.com
     properties:
-    - type: x-openapi
+    - type: X-openapi
       url: https://prod-public-external-api-doc.s3.eu-west-1.amazonaws.com/prod/openapi.yaml
   - name: Nedap
-    description: Nedap
+    description: Integrio Nedap API
     baseUrl: https://api.nedapretail.com
     properties:
-    - type: x-openapi
+    - type: X-openapi
       url: ./nedap/nedapidcloud-openapi.yaml
 
 
