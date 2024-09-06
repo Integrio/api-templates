@@ -15,6 +15,12 @@ apis:
   properties:
   - type: x-openapi
     url: https://petstore.swagger.io/v2/swagger.json
+- name: Nedap
+  description: Nedap
+  baseUrl: https://api.nedapretail.com
+  properties:
+  - type: x-openapi
+    url: ./nedap/nedapidcloud-openapi.yaml
 
 
     
